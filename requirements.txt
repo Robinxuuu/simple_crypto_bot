@@ -1,0 +1,8 @@
+python-dotenv
+requests
+pandas
+pandas_ta
+numpy==1.24.3
+ccxt
+loguru
+pyttsx3

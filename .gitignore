@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Virtual env
+.venv/
+venv/
+env/
+
+# IDE
+.idea/
+
+# Logs & local runs
+logs/
+runs/
+
+# Data / cache
+*.log
+*.csv
+*.parquet
+*.sqlite
+*.db
+
+# OS
+.DS_Store
+
+# Secrets
+.env
+.env.*
