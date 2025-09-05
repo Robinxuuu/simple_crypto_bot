@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b061eb16-308d-4bc6-be34-ded6e81c72a3" name="Changes" comment="">
+    <list default="true" id="b061eb16-308d-4bc6-be34-ded6e81c72a3" name="Changes" comment="Initial commit: project setup">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -20,6 +20,12 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -28,12 +34,12 @@
     &quot;assignee&quot;: &quot;Robinxuuu&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;git@github.com:Robinxuuu/simple_crypto_bot.git&quot;,
-    &quot;accountId&quot;: &quot;5c523313-f0fb-475e-8b39-1c864323bb8c&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "git@github.com:Robinxuuu/simple_crypto_bot.git",
+    "accountId": "04ec0a30-5ab4-4905-96b3-ecae460cb32b"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -74,7 +80,20 @@
       <option name="presentableId" value="Default" />
       <updated>1757005925160</updated>
     </task>
+    <task id="LOCAL-00001" summary="Initial commit: project setup">
+      <option name="closed" value="true" />
+      <created>1757100350629</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1757100350629</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit: project setup" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit: project setup" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
